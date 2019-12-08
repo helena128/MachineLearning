@@ -11,3 +11,6 @@ Given a dataset with time spent in line (in minutes) and number of people in it,
 
 ### Task 2.2. - Multiple linear regression
 Given file with data about candies and their flavours as well as their popularity, find prediction for Haribo's Twin Snakes and Hersheys Krackel winpercent and predict winpercent for candy with the given parameters.
+
+## Task 3 - Logistic regression
+Given 2 datasets (one for training and one for tests), create model, train it and do some prediction and calculate precision.
