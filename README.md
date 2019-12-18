@@ -16,8 +16,8 @@ Given file with data about candies and their flavours as well as their popularit
 Given 2 datasets (one for training and one for tests), create model, train it and do some prediction and calculate precision.
 
 ## Task 4 - Classification
-## Task 4.1 - Naive Bayes
+### Task 4.1 - Naive Bayes
 Detect probability given message is classified as spam.
 
-## Task 4.2 - K-means
+### Task 4.2 - K-means
 Given point, find distance to the points in training set and find class of the point.
