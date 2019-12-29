@@ -21,3 +21,9 @@ Detect probability given message is classified as spam.
 
 ### Task 4.2 - K-means
 Given point, find distance to the points in training set and find class of the point.
+
+## Task 5 - Clustering
+Detect class for elements using K-means clustering method
+
+## Exam
+Retrieve data from db, normalize, logistic regression and KNN
