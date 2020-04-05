@@ -26,7 +26,7 @@ X_full = pca.fit(X).transform(X)
 explained_variance = np.round(np.cumsum(pca.explained_variance_ratio_),3)
 print('Explained variance for 2 main components: ', explained_variance[2])
 # TODO: uncomment to see pic
-#plt.plot(np.arange(start=1, stop=11), explained_variance, ls = '-')
-#plt.show()
+plt.plot(np.arange(start=1, stop=11), explained_variance, ls = '-')
+plt.show()
 for i in range(len(explained_variance)):
 	print('Components: ', i + 1, ' variance: ', explained_variance[i])
