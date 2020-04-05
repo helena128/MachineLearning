@@ -25,5 +25,12 @@ Given point, find distance to the points in training set and find class of the p
 ## Task 5 - Clustering
 Detect class for elements using K-means clustering method
 
-## Exam
+## Exam 1
 Retrieve data from db, normalize, logistic regression and KNN
+
+## Task 6 - Principal component alanylsis (PCA)
+## Task 6.1 - Finding new coordinates
+## Task 6.2 - Find logotip
+
+## Task 7 - SVM
+Cats vs dogs classifier
